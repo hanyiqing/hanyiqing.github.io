@@ -1,3 +1,20 @@
+---
+
+layout:     post
+title:      Bayes学习
+subtitle:   第一节课
+date:       2020-01-19
+author:     HYQ
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+
+   - 数学
+        - Bayes
+            - Notes
+
+---
+
 # Bayes 学习的第一节课
 
 

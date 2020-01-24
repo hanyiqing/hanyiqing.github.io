@@ -1,3 +1,20 @@
+---
+
+layout:     post
+title:      Biopython学习
+subtitle:   日记
+date:       2020-01-19
+author:     HYQ
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+
+   - Bioinformatics
+        - Biopython
+            - Notes
+
+---
+
 # Biopython 学习日记
 
 
